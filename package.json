@@ -1,0 +1,30 @@
+{
+  "name": "taskmill-cli",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a7medkamel/taskmill-cli.git"
+  },
+  "author": "a7medkamel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/a7medkamel/taskmill-cli/issues"
+  },
+  "homepage": "https://github.com/a7medkamel/taskmill-cli#readme",
+  "dependencies": {
+    "bluebird": "^3.3.3",
+    "fs-extra": "^0.26.5",
+    "lodash": "^4.5.1",
+    "mime-db": "^1.22.0",
+    "mime-type": "^3.0.4",
+    "open": "0.0.5",
+    "request": "^2.69.0",
+    "request-promise": "^2.0.1",
+    "tmp": "0.0.28"
+  }
+}
