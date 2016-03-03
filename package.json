@@ -22,8 +22,9 @@
     "lodash": "^4.5.1",
     "mime-db": "^1.22.0",
     "mime-type": "^3.0.4",
+    "minimist": "^1.2.0",
     "open": "0.0.5",
-    "request": "^2.69.0",
+    "request": "git+https://github.com/request/request.git#c289759d10ebd76ff4138e81b39c81badde6e274",
     "request-promise": "^2.0.1",
     "tmp": "0.0.28"
   }
