@@ -18,6 +18,7 @@
   "homepage": "https://github.com/a7medkamel/taskmill-cli#readme",
   "dependencies": {
     "bluebird": "^3.3.3",
+    "config": "^1.21.0",
     "fs-extra": "^0.26.5",
     "lodash": "^4.5.1",
     "mime-db": "^1.22.0",
@@ -26,6 +27,7 @@
     "open": "0.0.5",
     "request": "git+https://github.com/request/request.git#c289759d10ebd76ff4138e81b39c81badde6e274",
     "request-promise": "^2.0.1",
-    "tmp": "0.0.28"
+    "tmp": "0.0.28",
+    "url-join": "^1.1.0"
   }
 }
