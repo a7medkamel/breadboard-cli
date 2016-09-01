@@ -1,5 +1,3 @@
-process.env.NODE_CONFIG_DIR = __dirname + '/config';
-
 var search  = require('./lib/search')
   , run     = require('./lib/run')
   , argv    = require('minimist')(process.argv.slice(2));
