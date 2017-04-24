@@ -17,16 +17,16 @@
   },
   "homepage": "https://github.com/a7medkamel/taskmill-cli#readme",
   "dependencies": {
-    "bluebird": "^3.4.6",
+    "bluebird": "^3.5.0",
     "create-output-stream": "0.0.1",
-    "lodash": "^4.15.0",
-    "mime-db": "^1.23.0",
+    "lodash": "^4.17.4",
+    "mime-db": "^1.27.0",
     "mime-type": "^3.0.4",
     "minimist": "^1.2.0",
     "open": "0.0.5",
-    "request": "git+https://github.com/request/request.git#c289759d10ebd76ff4138e81b39c81badde6e274",
-    "request-promise": "^4.1.1",
-    "tmp": "0.0.28",
-    "url-join": "^1.1.0"
+    "request": "^2.81.0",
+    "request-promise": "^4.2.0",
+    "tmp": "0.0.31",
+    "url-join": "^2.0.1"
   }
 }
