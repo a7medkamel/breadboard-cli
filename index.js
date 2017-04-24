@@ -17,7 +17,7 @@ if (!module.parent) {
       if (process.stdin.isTTY && result.encoding === 'binary') {
         return result.open();
       }
-      
+
       return result
                 .createReadStream()
                 .then(function(stream){
