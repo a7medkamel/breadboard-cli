@@ -15,14 +15,21 @@
   "bugs": {
     "url": "https://github.com/a7medkamel/breadboard-cli/issues"
   },
+  "bin": {
+    "breadboard": "bin/breadboard.js"
+  },
   "homepage": "https://github.com/a7medkamel/breadboard-cli#readme",
   "dependencies": {
     "bluebird": "^3.5.0",
-    "taskmill-core-git": "git+https://github.com/a7medkamel/taskmill-core-git.git",
     "commander": "^2.11.0",
+    "content-type": "^1.0.2",
+    "find-parent-dir": "^0.3.0",
     "lodash": "^4.17.4",
+    "parse-git-config": "^1.1.1",
+    "pretty-data": "^0.40.0",
     "request": "^2.81.0",
     "request-promise": "^4.2.0",
+    "taskmill-core-git": "git+https://github.com/a7medkamel/taskmill-core-git.git",
     "url-join": "^2.0.2"
   }
 }
