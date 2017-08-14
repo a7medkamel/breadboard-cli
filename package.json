@@ -1,5 +1,5 @@
 {
-  "name": "taskmill-cli",
+  "name": "breadboard-cli",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -8,25 +8,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/a7medkamel/taskmill-cli.git"
+    "url": "git+https://github.com/a7medkamel/breadboard-cli.git"
   },
   "author": "a7medkamel",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/a7medkamel/taskmill-cli/issues"
+    "url": "https://github.com/a7medkamel/breadboard-cli/issues"
   },
-  "homepage": "https://github.com/a7medkamel/taskmill-cli#readme",
+  "homepage": "https://github.com/a7medkamel/breadboard-cli#readme",
   "dependencies": {
     "bluebird": "^3.5.0",
-    "create-output-stream": "0.0.1",
+    "taskmill-core-git": "git+https://github.com/a7medkamel/taskmill-core-git.git",
+    "commander": "^2.11.0",
     "lodash": "^4.17.4",
-    "mime-db": "^1.27.0",
-    "mime-type": "^3.0.4",
-    "minimist": "^1.2.0",
-    "open": "0.0.5",
     "request": "^2.81.0",
     "request-promise": "^4.2.0",
-    "tmp": "0.0.31",
-    "url-join": "^2.0.1"
+    "url-join": "^2.0.2"
   }
 }
