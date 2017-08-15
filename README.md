@@ -33,5 +33,5 @@ breadboard run [SCRIPT_PATH] -t abcdefghizklmnop
 ### Pass QueryStrings
 
 ```
-breadboard run [SCRIPT_PATH] -q '{ "key" : "val" }
+breadboard run [SCRIPT_PATH] -q '{ "key" : "val" }'
 ```
