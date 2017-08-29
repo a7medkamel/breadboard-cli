@@ -30,6 +30,8 @@
     "request": "^2.81.0",
     "request-promise": "^4.2.0",
     "taskmill-core-git": "git+https://github.com/a7medkamel/taskmill-core-git.git",
+    "taskmill-core-tailf": "git+https://github.com/a7medkamel/taskmill-core-tailf.git",
+    "terminal-kit": "^1.13.9",
     "url-join": "^2.0.2"
   }
 }
