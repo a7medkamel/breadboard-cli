@@ -20,18 +20,19 @@
   },
   "homepage": "https://github.com/a7medkamel/breadboard-cli#readme",
   "dependencies": {
-    "bluebird": "^3.5.0",
+    "bluebird": "^3.5.1",
     "commander": "^2.11.0",
-    "content-type": "^1.0.2",
+    "content-type": "^1.0.4",
     "find-parent-dir": "^0.3.0",
     "lodash": "^4.17.4",
     "parse-git-config": "^1.1.1",
     "pretty-data": "^0.40.0",
-    "request": "^2.81.0",
-    "request-promise": "^4.2.0",
-    "taskmill-core-git": "git+https://github.com/a7medkamel/taskmill-core-git.git",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
     "tailf.io-sdk": "git+https://github.com/a7medkamel/tailf.io-sdk.git",
-    "terminal-kit": "^1.13.9",
-    "url-join": "^2.0.2"
+    "taskmill-core-git": "git+https://github.com/a7medkamel/taskmill-core-git.git",
+    "terminal-kit": "^1.14.0",
+    "url-join": "^2.0.2",
+    "winston": "^2.4.0"
   }
 }
