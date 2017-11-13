@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/a7medkamel/breadboard-cli#readme",
   "dependencies": {
+    "b64": "^4.0.0",
     "bluebird": "^3.5.1",
     "commander": "^2.11.0",
     "content-type": "^1.0.4",
@@ -29,7 +30,9 @@
     "pretty-data": "^0.40.0",
     "request": "^2.83.0",
     "request-promise": "^4.2.2",
+    "stream-to-string": "^1.1.0",
     "tailf.io-sdk": "git+https://github.com/a7medkamel/tailf.io-sdk.git",
+    "tar-fs": "^1.16.0",
     "taskmill-core-git": "git+https://github.com/a7medkamel/taskmill-core-git.git",
     "terminal-kit": "^1.14.0",
     "url-join": "^2.0.2",
