@@ -35,3 +35,9 @@ breadboard run [SCRIPT_PATH] -t abcdefghizklmnop
 ```
 breadboard run [SCRIPT_PATH] -q '{ "key" : "val" }'
 ```
+
+### Post content of a file
+
+```
+breadboard run [SCRIPT_PATH] -p [FILENAME]
+```
